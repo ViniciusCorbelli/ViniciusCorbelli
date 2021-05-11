@@ -1,14 +1,15 @@
 <div align="right">
 
-<img align="right" margin="15px" margin-top="100px" width="400px" src="./public/image.svg">
-
 <p>
-<img align="right" width="428px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscorbelli&hide=jupyternotebook&layout=compact&theme=light&hide_border=true" style="margin-top: 5rem">
+<img align="right" width="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscorbelli&hide=jupyternotebook&layout=compact&theme=light&hide_border=true" style="margin-top: 5rem">
+</p>
+<p>
+<img align="right" width="430px" src="https://github-readme-stats.vercel.app/api?username=ViniciusCorbelli&show_icons=true" style="margin-top: 5rem">
 </p>
 
 </div>
 
-# 🏕️ Hey there!
+# Hey there!
 <br>
 🎂 20 years old;
 <br>
@@ -47,7 +48,7 @@
 <img height="30" alt="LinkedIn" src="./public/linkedin.svg"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a target="_blank" href="v.corbelli71@gmail.com" target="_blank">
+<a target="_blank" href="mailto:v.corbelli71@gmail.com" target="_blank">
     <img alt="Email" height="30" src="./public/gmail.svg"/>
 </a>
 </div>
