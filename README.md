@@ -1,9 +1,9 @@
 <div align="right">
 
-<p style="margin-top: 5px">
+<p>
 <img align="right" width="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscorbelli&hide=jupyternotebook&layout=compact&theme=dark&hide_border=true">
 </p>
-<p style="margin-top: 15px">
+<p>
 <img align="right" width="430px" src="https://github-readme-stats.vercel.app/api?username=ViniciusCorbelli&show_icons=true&layout=compact&theme=dark&hide_border=true">
 </p>
 
@@ -19,7 +19,7 @@
 
 ---
 
-# 🔨 Languages and Techs
+# Languages
 
 <div align="left">
 <img height="40" alt="HTML5" src="./public/techs/html5.svg" title="HTML5"/> 
@@ -34,7 +34,7 @@
 <br>
 
 ---
-# ⚛️ Frameworks/Stack
+# Frameworks
 
 <div align="left">
 <img height="40" alt="ReactJS" src="./public/techs/react.svg" title="ReactJS"/> &nbsp;&nbsp;&nbsp; 
