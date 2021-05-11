@@ -4,7 +4,7 @@
 <img align="right" width="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscorbelli&hide=jupyternotebook&layout=compact&theme=light&hide_border=true" style="margin-top: 5rem">
 </p>
 <p>
-<img align="right" width="430px" src="https://github-readme-stats.vercel.app/api?username=ViniciusCorbelli&show_icons=true" style="margin-top: 5rem">
+<img align="right" width="430px" src="https://github-readme-stats.vercel.app/api?username=ViniciusCorbelli&show_icons=true" style="margin-top: 15rem">
 </p>
 
 </div>
