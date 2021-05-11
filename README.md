@@ -19,7 +19,7 @@
 
 ---
 
-# Languages
+# 🔨 Languages
 
 <div align="left">
 <img height="40" alt="HTML5" src="./public/techs/html5.svg" title="HTML5"/> 
@@ -39,7 +39,6 @@
 <div align="left">
 <img height="40" alt="ReactJS" src="./public/techs/react.svg" title="ReactJS"/> &nbsp;&nbsp;&nbsp; 
 <img height="40" alt="NodeJS" src="./public/techs/nodejs.svg" title="NodeJS"/> &nbsp;&nbsp;&nbsp;
-<img height="40" src="./public/techs/electron.svg" alt="Electron" title="Electron"> &nbsp;&nbsp;&nbsp; 
 </div>
 
 ---
