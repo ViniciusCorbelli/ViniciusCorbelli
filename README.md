@@ -1,10 +1,10 @@
 <div align="right">
 
-<p>
-<img align="right" width="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscorbelli&hide=jupyternotebook&layout=compact&theme=light&hide_border=true" style="margin-top: 5rem">
+<p style="margin-top: 5px">
+<img align="right" width="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscorbelli&hide=jupyternotebook&layout=compact&theme=dark&hide_border=true">
 </p>
-<p>
-<img align="right" width="430px" src="https://github-readme-stats.vercel.app/api?username=ViniciusCorbelli&show_icons=true" style="margin-top: 15rem">
+<p style="margin-top: 15px">
+<img align="right" width="430px" src="https://github-readme-stats.vercel.app/api?username=ViniciusCorbelli&show_icons=true&layout=compact&theme=dark&hide_border=true">
 </p>
 
 </div>
