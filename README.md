@@ -33,15 +33,6 @@
 
 <br>
 
----
-# Frameworks
-
-<div align="left">
-<img height="40" alt="ReactJS" src="./public/techs/react.svg" title="ReactJS"/> &nbsp;&nbsp;&nbsp; 
-<img height="40" alt="NodeJS" src="./public/techs/nodejs.svg" title="NodeJS"/> &nbsp;&nbsp;&nbsp;
-</div>
-
----
 <div align="center">
 <a href="https://www.linkedin.com/in/vin%C3%ADcius-de-oliveira-corbelli-804a5320b/" target="_blank">
 <img height="30" alt="LinkedIn" src="./public/linkedin.svg"/>
