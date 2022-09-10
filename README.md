@@ -11,7 +11,7 @@
 
 # Hey there!
 <br>
-🎂 20 years old;
+🎂 21 years old;
 <br>
 📜 I’m currently studing in <a href="https://www2.ufjf.br/ufjf/" target="_blank">Federal University of Juiz de Fora</a>;
 <br>
